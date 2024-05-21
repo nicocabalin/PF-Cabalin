@@ -1,0 +1,28 @@
+
+.banner {
+    position: relative;
+    right: 5%;
+    display: block;
+    max-width: 95%;
+    background-image: url("../assets/banner-ataud.JPG");
+     background-size: contain;
+     background-position: top;
+     background-repeat: no-repeat;
+     height: 15vw
+    
+ }
+ 
+ .logo { 
+     position: relative;
+    top: 70px;
+    height: 25vw;
+    
+ }
+ 
+ .inicio {
+     color: grey;
+     position:  relative;
+     text-align: right;
+     bottom: 100px;
+ 
+ }

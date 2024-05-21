@@ -1,0 +1,3 @@
+# Proyecto de Desarollo Web
+## Readme informatorio acerca del proyecto
+### Este proyecto consta de un proyecto de pagina web, la cual tiene como tema a una Fabrica de Ataudes, me parecio realizar esta tematica ya que mi papa se dedica a eso, y yo trabajo junto a el, para practicar y de paso ir haciendome una idea de como hacer una pagina, para finalmente realizar la pagina que sera utilizada por mi papa y yo.
